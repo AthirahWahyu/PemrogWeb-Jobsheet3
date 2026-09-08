@@ -249,3 +249,23 @@ footer {
         max-width: 100%;
     }
 }
+
+/* Blok kode responsif */
+pre {
+    overflow-x: auto;
+    max-width: 100%;
+    background-color: #1e1e1e;
+    color: #f8f8f2;
+    padding: 1rem;
+    border-radius: 6px;
+    font-family: "Consolas", "Courier New", monospace;
+    font-size: 0.9rem;
+}
+
+/* Pembungkus kode responsif */
+.code-responsive {
+    overflow-x: auto;
+    max-width: 100%;
+}
+
+
